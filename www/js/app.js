@@ -52,4 +52,3 @@ angular.module('starter', ['ionic', 'ngRoute', 'ngAnimate', 'starter.services', 
     });
 
 });
-
